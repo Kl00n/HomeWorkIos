@@ -1,0 +1,2 @@
+let cafe = "Cafe\u{301}"
+print(cafe)

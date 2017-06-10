@@ -1,0 +1,10 @@
+var mass = [Int] (arc4random(10))
+var result : [Double]
+if (mass.count>0) {
+	var summ = 0
+	for i in mass {
+		summ += mass[i]
+	}
+	result = summ / mass.count
+}
+print(result)

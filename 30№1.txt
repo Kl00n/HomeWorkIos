@@ -1,0 +1,4 @@
+let someString = "Its my string"
+for some in someString.characters  {
+    print(some, terminator: " ")
+}
