@@ -1,9 +1,9 @@
-var palindrom = "поп"
+var palindrom = "lol"
 var reversedPalindrom = String(polindrom.characters.reversed())
 let checkPolindrom = polindrom.uppercased()
 let checkReverse = reversedPalindrom.uppercased()
 if checkPalindrom == checkReverse{
-    print ("Это палиндром")
+    print ("This palindrom")
     }else{
-        print ("Это не палиндром")
+        print ("No the palindrom")
     }
